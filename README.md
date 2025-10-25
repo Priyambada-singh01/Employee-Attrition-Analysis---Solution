@@ -114,9 +114,4 @@ The Excel Dashboard includes:
 * Create growth opportunities for new joiners to reduce early attrition.
 * Strengthen onboarding and mentorship programs.
 
----
 
-
-
-Would you like me to make this **ready for upload** (formatted as a `.md` file you can directly upload to GitHub)?
-I can generate and send you the file instantly.
